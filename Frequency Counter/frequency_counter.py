@@ -1,6 +1,6 @@
 # A FUNCTION THAT COUNTS HOW MANY TIMES AN ELEMENT IN THE LIST OCCURED IN THAT LIST
-# This function accepts a list and returns a dictionary where the elements in the list
-# the keys and the number of times they occured as the values.
+# This function accepts a list and returns a dictionary where the keys are the elements in the list
+# and the values are the number of times each element occured.
 
 def freq_table(freq_list):
     freq_dict = {}
